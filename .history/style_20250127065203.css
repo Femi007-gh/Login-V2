@@ -1,0 +1,11 @@
+* {
+   PADDING
+}
+
+body {
+
+}
+
+.container {
+  display: flex;
+}
